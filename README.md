@@ -4,7 +4,7 @@
 
 In this repo I've compiled scripts from the PRS tutorial to be run on sample data from the tutorial: https://choishingwan.github.io/PRS-Tutorial/.
 
-I'm using it to better understand how plink and PRSice work (and compare to one another)
+I'm using it to better understand how plink and PRSice work (and compare to one another).  Additions / edits from the tutorial are commented with "ARK"
 
 The scripts are designed to be run in this order:
 1. run_QC.sh
